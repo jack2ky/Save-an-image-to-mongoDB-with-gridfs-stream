@@ -11,4 +11,10 @@ The images are stored in `fs.files`
 
 This works. Just do `nmp install`.
 
-Tutorial
+Tutorial http://excellencenodejsblog.com/gridfs-using-mongoose-nodejs/
+
+random git tip:
+
+After making changes online (at github) you could get the changes in your local working directory by doing
+
+`git pull origin master`
